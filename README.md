@@ -64,9 +64,9 @@ Gender Demographics
 Research indicates that women are more likely to engage with note-taking, online calendars, and productivity apps compared to their male counterparts. Consequently, our target audience predominantly consists of women. To cater to this demographic, we incorporated design elements that resonate with feminine aesthetics.
 
 Conclusion
-The Task Ticker web application is thoughtfully designed to meet the needs of a predominantly female target audience. Our design choices, including layout, fonts, colors, and logo styling, aim to provide a structured yet visually appealing experience. We selected each element based on : Communication theories, social behaviour theories and industry reports. Each element on the page is selected and placed with a thought.
 
-By understanding the characteristics and preferences of our users, and applying communication and behaviour theories we ensure that Task Ticker is an efficient and stress-free tool for managing tasks and enhancing productivity
+The Task Ticker web application is thoughtfully designed to meet the needs of a predominantly female target audience. Our design choices, including layout, fonts, colors, and logo styling, aim to provide a structured yet visually appealing experience. We selected each element based on : Communication theories and social behaviour theories such as learning theories (behaviorism, cognitivism, connectivism, -cognitive behaviour theory, social learning, cognitive and emotional learning, natural selection etc. ) and industry reports ( UI-UX design trends , statistics on mobile screen sizes and choices , web design trends etc.). Each element on the page is selected and placed with a thought.
+By understanding the characteristics and preferences of our users, and applying communication and behaviour theories we ensure that Task Ticker is an efficient and stress-free tool for managing tasks and enhancing productivity.
 
 Roles and Responsibilities
 Aysegul Aksu
