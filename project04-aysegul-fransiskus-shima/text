@@ -1,0 +1,58 @@
+LOGIN
+Start
+When the user submits the login form:
+    Prevent the default form submission behavior
+    Collect form data (username/email and password)
+    Send a request to the server:
+        URL: 'app/login.php'
+        Method: POST
+        Include form data in the request body
+    When the server responds:
+        Parse the response as JSON
+        If login is successful:
+            Redirect to the feed page ('showLists.html')
+        If login fails:
+            Display an error message to the user
+    If the form is not valid:
+        Display a validation error message
+End
+
+REGISTER
+
+Start
+When the user submits the registration form:
+    Prevent the default form submission behavior
+    Collect form data (username, email, and password)
+    Check if the password is at least 8 characters long:
+        If not, display a password length error message and stop
+    Send a request to the server:
+        URL: 'app/register.php'
+        Method: POST
+        Include form data in the request body
+    When the server responds:
+        Parse the response as JSON
+        If registration is successful:
+            Redirect to the feed page ('showLists.html')
+        If registration fails:
+            Display an error message to the user
+    If the form is not valid:
+        Display a validation error message
+End
+
+LOGOUT
+
+Start
+When the user clicks the logout button:
+    Display a confirmation dialog to ask if they are sure they want to log out
+    If the user confirms:
+        Redirect to 'app/logout.php' to perform the logout action on the server
+        (This should clear session data and destroy the session)
+    If the user cancels:
+        Do nothing and stay on the current page
+End
+
+
+
+
+
+
