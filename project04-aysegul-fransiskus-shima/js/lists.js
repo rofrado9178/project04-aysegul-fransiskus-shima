@@ -12,7 +12,7 @@ async function fetchTodo(url) {
       <h2 class="title title${index}"> ${data.name}</h2>
       <p class="desc desc${index}"> ${data.description}</p>
       <p class="deadline deadline${index}"> ${data.deadline}</p>
-      <button class="done button${index}">X</button>
+      <button class="done button${index}">Delete</button>
     </article>
       `;
   });
