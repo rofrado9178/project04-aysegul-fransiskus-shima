@@ -89,7 +89,6 @@
   .todo button {
     display: inline-block;
     padding: 15px 15px;
-    align-self: right;
     cursor: pointer;
     background-color: #c6f2ed;
     font-size: 1.4rem;
@@ -97,6 +96,9 @@
     border-radius: 8px;
     font-weight: 900;
     color: #FF4D47;
+    height: 60px;
+    width: 120px;
+    justify-self: right;
   }
 
   @media only screen and (min-width: 900px) {
