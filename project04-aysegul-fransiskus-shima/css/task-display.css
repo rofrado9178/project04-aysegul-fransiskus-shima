@@ -66,6 +66,7 @@
     grid-template-columns: 1fr;
     gap: 1rem;
     margin-bottom: 7rem;
+    min-height: 500px;
   }
 
   
